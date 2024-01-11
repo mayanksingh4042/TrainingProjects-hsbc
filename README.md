@@ -1,5 +1,5 @@
 # TrainingProjects-hsbc
-This project is use reverse the data residing in file "inputstring/testinputstr.txt" and writing it back to "outputstring/testoutputstr.txt".
+This project is use to reverse the String data residing in file "inputstring/testinputstr.txt" and writing it back to "outputstring/testoutputstr.txt".
 To open the project in eclipse clone the repository "git clone https://github.com/mayanksingh4042/TrainingProjects-hsbc.git"
 In eclipse open the project by going to dir "TrainingProjects-hsbc" as existing java project.
 Make sure JDK 8  and higher is installed
